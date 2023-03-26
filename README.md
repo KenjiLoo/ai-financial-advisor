@@ -22,6 +22,11 @@
 4) Insert this key into the `openai.api_key = "insert your key here"` under the section "IMPORTS"
 
 ## Start having fun! 
+1) Make sure your Google Colabs is connected to a GPU
+2) You can click on Session > Run all cells 
+3) The interface will look like this
+![image](https://user-images.githubusercontent.com/80972386/227777114-cc3749d1-51b5-473c-95dd-cabd67055fa3.png)
+
 Credits to: Bhavesh Bhatt on youtube
 
 
