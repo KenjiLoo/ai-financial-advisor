@@ -10,7 +10,7 @@
   - Click on Application > Cookies > https://.......
   - Your session token as the first value that pops up
   - ![image](https://user-images.githubusercontent.com/80972386/227776185-74947a22-77f7-4413-b257-7ed4fa520fce.png)
-5) Put the file into Google Collabs like this: 
+5) Put the file into Google Colabs like this: 
   - ![image](https://user-images.githubusercontent.com/80972386/227776965-c8124a2b-a1a1-473d-8547-14a20ab8e7de.png)
 
 
