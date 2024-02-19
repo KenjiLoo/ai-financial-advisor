@@ -1,3 +1,6 @@
+# 🤜 About this project 🤛
+This is an attempt at a hackathon to make use of the ChatGPT API in a creative and useful way. Me, along with some friends from uni decided to give it a shot and just have some fun. We thought that ChatGPT can be a powerful tool to help someone navigate the financial markets, which is a huge use case in AI.
+
 # 🤜 TO RUN THE SOFTWARE 🤛
 
 ## Create a JSON 📑
@@ -27,6 +30,5 @@
 3) The interface will look like this
 ![image](https://user-images.githubusercontent.com/80972386/227777114-cc3749d1-51b5-473c-95dd-cabd67055fa3.png)
 
-Credits to: Bhavesh Bhatt on youtube ****
 
 
